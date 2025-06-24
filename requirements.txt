@@ -1,0 +1,11 @@
+# Python dependencies
+pandas
+numpy
+scikit-learn
+xgboost
+catboost
+streamlit
+python-telegram-bot
+openai
+jupyter
+pytest
