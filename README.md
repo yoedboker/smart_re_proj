@@ -1,4 +1,4 @@
-# real_estate_advisor
+# RE Advisor Project
 
 ## Project Overview
 The Real Estate Advisor project is designed to provide insights and predictions related to real estate prices using machine learning techniques. This project includes data processing, model training, and a user interface for interaction.
